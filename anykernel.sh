@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=KernelSu-Next for Realme 5 pro by @D_ai_n (RMX1971/RMX1971CN)
+kernel.string=Eye-of-Horus-KernelSU-Next for RMX1971 by @D_ai_n
 do.devicecheck=1
 do.modules=0
 do.systemless=1
