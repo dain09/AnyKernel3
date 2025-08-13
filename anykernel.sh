@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Eye-of-Horus-KernelSU-Next for RMX1971 by @D_ai_n
+kernel.string=Eye-of-Horus-RKSU for RMX1971 by @D_ai_n
 do.devicecheck=1
 do.modules=0
 do.systemless=1
