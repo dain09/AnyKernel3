@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=KernelSu for Realme X @H1mJT(RMX1901/RMX1901CN)
+kernel.string=silont-revived for Realme 5 Pro
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX1901
-device.name2=RMX1901CN
+device.name1=RMX1971
+device.name2=RMX1971CN
 device.name3=realme_sdm710
 device.name4=nicky
 device.name5=
